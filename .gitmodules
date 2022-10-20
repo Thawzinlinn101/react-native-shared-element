@@ -1,3 +1,6 @@
 [submodule "shared-element-ex1"]
 	path = shared-element-ex1
 	url = https://github.com/Thawzinlinn101/shared-element-ex1.git
+[submodule "restaurant"]
+	path = restaurant
+	url = https://github.com/Thawzinlinn101/restaurant.git
