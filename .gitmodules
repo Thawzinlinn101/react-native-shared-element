@@ -4,3 +4,6 @@
 [submodule "restaurant"]
 	path = restaurant
 	url = https://github.com/Thawzinlinn101/restaurant.git
+[submodule "shared-element-ex1-5"]
+	path = shared-element-ex1-5
+	url = https://github.com/Thawzinlinn101/shared-element-ex1-5.git
